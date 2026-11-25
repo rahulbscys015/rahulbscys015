@@ -1,5 +1,5 @@
 👋 Hi, I'm Rahul Kumar
-🎓 3rd Year BS Cybersecurity Student at Mehran University of Engineering & Technology
+🎓 Final Year BS Cybersecurity Student at Mehran University of Engineering & Technology
 🛡️ CTF Enthusiast | 50+ TryHackMe rooms completed in SOC, DFIR, Malware Analysis, and Web Security
 🔍 Security Focus: Threat Hunting, Log Analysis, AV/EDR Evasion, and Penetration Testing
 💻 Languages: Python, Java, C++, SQL
