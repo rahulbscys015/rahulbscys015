@@ -27,7 +27,7 @@ Final-year BS Cybersecurity student at Mehran University of Engineering & Techno
 - **Sentinel Shield — Unified Security Intelligence Platform (Final Year Project):** integrates 15+ threat-intelligence sources with normalized schemas and caching; hybrid 0–100 risk scoring engine combining a 21-feature Linear SVM with heuristic rules; mini-SIEM console with event search, dashboards, Splunk HEC and STIX 2.1 export; analyst workbench, scheduled scans with alerts and an AI investigation assistant; secured with JWT, RBAC and TOTP, deployed with Docker and CI/CD. Built with Python, FastAPI, scikit-learn, SQLAlchemy, Redis, React, TypeScript and Docker.
 - **AI-Based Intrusion Detection System with Cyber Law Mapping:** machine-learning anomaly detection with explainable alerts mapped to cybersecurity law and compliance requirements.
 - **Packet Sniffer and Analyzer with GUI:** multi-threaded Python capture tool with blacklist alerting, admin-only access, TCP/UDP/ICMP filtering, graphical summaries and CSV/JSON export.
-- **AV/EDR Evasion Lab:** practical study of direct syscalls, process hollowing and reflective loading for modern endpoint security bypass techniques.
+- **AV/EDR Evasion Lab:** practical study of direct syscalls, process hollowing and reflective loading for modern endpoint security bypass techniques. [Repository](https://github.com/rahulbscys015/av-edr-evasion-lab).
 - **TryHackMe Walkthroughs and Advent of Cyber 2025:** documented lab and CTF solutions covering Linux, phishing, Splunk, malware analysis, XSS, containers, obfuscation and C2 detection.
 
 ## SOC Internship Labs — ITSOLERA
