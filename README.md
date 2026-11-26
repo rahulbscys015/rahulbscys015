@@ -1,6 +1,6 @@
 # Rahul Kumar
 
-**Cybersecurity Student | SOC Analyst | Threat Hunter**
+**Cybersecurity Student | SOC Analyst | Threat Hunter | ITSOLERA SOC Intern**
 
 Final-year BS Cybersecurity student at Mehran University of Engineering & Technology (MUET), Jamshoro, Sindh, Pakistan. Hands-on experience in security operations, ethical hacking and digital forensics, focused on practical and defensible security work.
 
@@ -18,7 +18,7 @@ Final-year BS Cybersecurity student at Mehran University of Engineering & Techno
 
 ## Experience
 
-- **SOC Analyst Intern — ITSOLERA Pvt Ltd** (Jan 2026 – Feb 2026): triaged 50+ security alerts per day in Splunk and Wazuh, supported incident response for phishing, malware and unauthorized-access alerts, and mapped adversary activity to MITRE ATT&CK.
+- **SOC Analyst Intern — ITSOLERA Pvt Ltd** (Jan 2026 – Feb 2026): triaged 50+ security alerts per day in Splunk and Wazuh, built Wazuh FIM and pfSense/Suricata monitoring labs, analysed Agent Tesla with static/dynamic/hybrid methods, and mapped adversary activity to MITRE ATT&CK.
 - **Ethical Hacking Intern — DevelopersHub Corporation** (Feb 2026 – Present): tested web applications for OWASP Top 10 weaknesses including SQL injection, XSS, IDOR and authentication bypass using Nmap, Burp Suite and Metasploit; wrote technical reports with remediation guidance.
 - **Blue Team & CTF Labs — TryHackMe (160+ rooms, ongoing):** SOC Level 1 alert triage, Windows forensics, phishing analysis, Cyber Kill Chain, Unified Kill Chain, Elastic Stack, SOAR, EDR, YARA rules and memory forensics.
 
@@ -29,6 +29,18 @@ Final-year BS Cybersecurity student at Mehran University of Engineering & Techno
 - **Packet Sniffer and Analyzer with GUI:** multi-threaded Python capture tool with blacklist alerting, admin-only access, TCP/UDP/ICMP filtering, graphical summaries and CSV/JSON export.
 - **AV/EDR Evasion Lab:** practical study of direct syscalls, process hollowing and reflective loading for modern endpoint security bypass techniques.
 - **TryHackMe Walkthroughs and Advent of Cyber 2025:** documented lab and CTF solutions covering Linux, phishing, Splunk, malware analysis, XSS, containers, obfuscation and C2 detection.
+
+## SOC Internship Labs — ITSOLERA
+
+Practical SOC work from the ITSOLERA Cybersecurity Winter Internship, published as separate lab repositories with original reports, evidence and analysis notes:
+
+- [Task 01 — Wazuh Installation & FIM Monitoring](https://github.com/rahulbscys015/itsolera-soc-task-01-wazuh-fim): deployed Wazuh 4.14.1 in VirtualBox, onboarded a Windows 11 agent and tuned custom File Integrity Monitoring.
+- [Task 02 — pfSense Firewall Integration with Wazuh](https://github.com/rahulbscys015/itsolera-soc-task-02-pfsense-wazuh): built GeoIP blocking, website restrictions and admin-access rules, then forwarded and analysed firewall logs in Wazuh.
+- [Task 03 — Malware Download & Incident Response](https://github.com/rahulbscys015/itsolera-soc-task-03-malware-download-ir): used pfSense, Suricata and Wazuh rootcheck to detect trojaned files, document IOCs and build a NIST SP 800-61 response plan.
+- [Task 04 — Agent Tesla Malware Analysis](https://github.com/rahulbscys015/itsolera-soc-task-04-agent-tesla-analysis): static, dynamic and hybrid analysis with PEStudio, IDA, Process Monitor, Regshot, FakeNet-NG and ANY.RUN, plus a YARA rule and MITRE ATT&CK mapping.
+- [Task 05 — Major Malware Breach Report](https://github.com/rahulbscys015/itsolera-soc-task-05-breach-report): comparative analysis of ten major 2025–2026 breaches, common failure patterns and SOC defensive lessons.
+
+These labs cover SIEM deployment, firewall rule engineering, log analysis, malware analysis, incident response and threat-informed defence.
 
 ## Certifications
 
